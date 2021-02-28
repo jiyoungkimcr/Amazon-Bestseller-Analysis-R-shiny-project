@@ -1,4 +1,7 @@
-# Amazon-Bestseller-Analysis-R-shiny-project-
+# Amazon-Bestseller-Analysis-R-shiny-project
+
+**Result - [Shiny web created for this project](https://jiyoungkimcr.shinyapps.io/FinalProject_Amazon_Bestseller_Analysis/ "Amazon Bestseller Analysis Report")**
+
 **Project Description:**
 
 This project is to analyze Bestseller Books of 2010~2020 which listed on Amazon.com Bestseller list. I crawled Bestseller data from Amazon page using crawler code that I wrote. Through this project, I wanted to see if variables such as book price, ratings, number of reviews, year, etc...have any affect or relationship with books being bestseller. (Link to: https://www.amazon.com/gp/bestsellers/2020/books)
