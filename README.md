@@ -8,7 +8,7 @@ This project is to analyze Bestseller Books of 2010~2020 which listed on Amazon.
 
 **About Data Preparation - Crawling using BeautifulSoup:**
 
-Please refer to the crawler code 2020 file. It's the crawler written based on Jupyter notebook (python 3) and you can use same code for 2010-2020 by changing webpage link in 'requests.get' line.
+Please refer to the crawler code 2020 file. I wrote the crawler code on Jupyter notebook (python 3) and this can be used for scraping each year (2010-2020) by changing webpage link in 'requests.get' line.
 
 **About Dataset:**
 
