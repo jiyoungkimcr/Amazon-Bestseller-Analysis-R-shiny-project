@@ -1,0 +1,2 @@
+# Amazon-Bestseller-Analysis-R-shiny-project-
+As a part of R final project, this project is to analyze Bestseller Books of 2010~2020 which listed on Amazon.com Bestseller list. I crawled Bestseller data from Amazon page using crawler code that I wrote. Through this project, I wanted to see if variables such as book price, ratings, number of reviews, year, etc...have any affect or relationship with books being bestseller.
