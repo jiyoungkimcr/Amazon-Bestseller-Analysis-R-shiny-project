@@ -15,7 +15,7 @@ Please refer to the crawler code 2020 file. I wrote the crawler code on Jupyter 
 Our dataset, 'amazon_bs', consists of 1094 obs of 7 variables (Year, Rank, Book.Title, Author, Rating, Num_Customers_Rated, Price). This data is crawled from Amazon Best Sellers list of 2010~2020. It was originally 1100 obs, but through data preprocessing, I dropped 6 obs with NA and empty values
 
 
-## **Gallery**
+## **Preview**
 ![image](https://user-images.githubusercontent.com/53321802/110947661-bbfd0900-8340-11eb-88cd-3ed216c9ff8e.png)
 
 ![image](https://user-images.githubusercontent.com/53321802/110947714-cddeac00-8340-11eb-9a6b-b83b1be8d76c.png)
